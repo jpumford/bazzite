@@ -19,6 +19,7 @@ cp --archive --verbose --force \
 /ctx/bazzite/05-valve-patches.sh
 /ctx/bazzite/06-global-remove.sh
 /ctx/bazzite/07-install-packages.sh
+/ctx/bazzite/13-build-scarlett-driver.sh
 /ctx/bazzite/08-install-steam-lutris.sh
 /ctx/bazzite/09-install-ujust-picker.sh
 /ctx/bazzite/10-configure-desktops.sh
